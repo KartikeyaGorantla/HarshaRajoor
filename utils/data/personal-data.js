@@ -8,5 +8,5 @@ export const personalData = {
     address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
     github: 'https://github.com/harsharajoor2517',
     linkedIn: 'https://www.linkedin.com/in/harsha-rajoor-b15b9122b',
-    resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/14R8d2jKx5miWnNPdPp1vn518h5jRbZEc/view?usp=sharing"
 }
